@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+/* 🎨 Design tokens (ESTO ES EL NUEVO "config") */
+@theme {
+  --color-primary: rgb(99 102 241);
+  --color-secondary: rgb(17 24 39);
+}
